@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /administrator.php
+Disallow: /profile.php
+Disallow: /auth.php
+Disallow: /registr.php
+Disallow: /connect.php
+Disallow: /forms.php
+Disallow: /logout.php
+Disallow: /uploads/
+Sitemap: https://ваш-сайт.ru/sitemap.xml
